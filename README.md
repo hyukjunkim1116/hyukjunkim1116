@@ -1,16 +1,23 @@
-### Hi there 👋
+# 안녕하세요! 👋
 
-<!--
-**hyukjunkim1116/hyukjunkim1116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+제 이름은 [이름]이고, [직업/전공/관심사]에 종사하고 있습니다. [짧은 자기 소개]
 
-Here are some ideas to get you started:
+## 🚀 기술 스택
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+여기에 사용하는 기술 스택을 나열합니다. 예를 들면:
+
+- 프로그래밍 언어: Python, JavaScript
+- 프레임워크: React, Node.js
+- 데이터베이스: MySQL, MongoDB
+
+## ✨ 관심사
+
+- 웹 개발
+- 데이터 과학
+- 오픈 소스 기여
+
+## 📫 연락처
+
+- 이메일: [이메일 주소]
+- 링크드인: [링크드인 프로필 링크]
+- 블로그: [블로그 링크]
