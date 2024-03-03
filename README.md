@@ -3,7 +3,7 @@
 - 개발 블로그: https://velog.io/@rlagurwns112/about
 
 ## 🚀 Record
-## ✈️ Projects Participated In
+## ✈️ Projects
 ## 🏅 Awards and Achievements
 ## 📜 Certifications
 ## 🛠️ Technology Stack
