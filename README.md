@@ -8,15 +8,15 @@
 ## 📜 Certifications
 ## 🛠️ Technology Stack
 
-- 프로그래밍 언어: Python, JavaScript, Java 
-- 프레임워크: React, Vue, Django, Spring
+- 프로그래밍 언어: Python, JavaScript, Java, Dart
+- 프레임워크: React, Vue, Django, Spring, Flutter
 - 데브옵스 툴: Docker, Jenkins, AWS
 - 협업 툴: 
 - 데이터베이스: MySQL, Postgresql
 
 ## ✨ Current interests
 
-- 웹 개발
+- 웹/앱 개발
 - DevOps
 
 ## 📫 Contact
