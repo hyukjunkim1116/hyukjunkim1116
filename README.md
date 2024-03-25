@@ -2,11 +2,11 @@
 
 - 개발 블로그: https://velog.io/@rlagurwns112/about
 
-## 🚀 Record
-## ✈️ Projects
-## 🏅 Awards and Achievements
-## 📜 Certifications
-## 🛠️ Technology Stack
+//## 🚀 Record
+//## ✈️ Projects
+//## 🏅 Awards and Achievements
+//## 📜 Certifications
+//## 🛠️ Technology Stack
 
 - 프로그래밍 언어: Python, JavaScript, Java, Dart
 - 프레임워크: React, Vue, Django, Spring, Flutter
