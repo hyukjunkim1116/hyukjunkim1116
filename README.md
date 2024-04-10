@@ -8,11 +8,11 @@
 ## 📜 Certifications
 ## 🛠️ Technology Stack
 
-- 프로그래밍 언어: Python, JavaScript, Java, Dart
-- 프레임워크: React, Vue, Django, Spring, Flutter
-- 데브옵스 툴: Docker, Jenkins, AWS
+- 프로그래밍 언어: 
+- 프레임워크: 
+- 데브옵스 툴: 
 - 협업 툴: 
-- 데이터베이스: MySQL, Postgresql
+- 데이터베이스: 
 
 ## ✨ Current interests
 
@@ -21,5 +21,5 @@
 
 ## 📫 Contact
 
-- 이메일: nmkk1234@naver.com
+- email: nmkk1234@naver.com
 
