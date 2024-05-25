@@ -6,6 +6,7 @@
 ## ✈️ Projects
 ## 🏅 Awards and Achievements
 ## 📜 Certifications
+- SQLD (2024.6.18~)
 ## 🛠️ Technology Stack
 
 - 프로그래밍 언어: 
