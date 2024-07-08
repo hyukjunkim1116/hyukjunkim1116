@@ -3,17 +3,9 @@
 - 블로그: https://velog.io/@rlagurwns112/about
 
 ## 🚀 Record
-## ✈️ Projects
-## 🏅 Awards and Achievements
+
 ## 📜 Certifications
 - SQLD
-## 🛠️ Technology Stack
-
-- 프로그래밍 언어: 
-- 프레임워크: 
-- 데브옵스 툴: 
-- 협업 툴: 
-- 데이터베이스: 
 
 ## ✨ Current interests
 
