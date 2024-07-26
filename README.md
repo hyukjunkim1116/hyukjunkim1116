@@ -1,7 +1,5 @@
 # 👋 안녕하세요! 김혁준입니다 👋
 
-- 블로그: https://velog.io/@rlagurwns112/about
-
 ## 🚀 Record
 
 - 23.7 : 스파르타 코딩클럽 AI 웹 개발자 과정(Django) 수료 
@@ -17,4 +15,4 @@
 ## 📫 Contact
 
 - email: nmkk1234@naver.com
-
+- blog : https://velog.io/@rlagurwns112
