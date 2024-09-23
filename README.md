@@ -10,7 +10,7 @@
 - 2024.8 : GDG on Campus: Seoultech 4th Core
 
 ## 📜 Certifications
-- SQLD
+- 2024.6 : SQLD
 
 ## ✨ Current interests
 
