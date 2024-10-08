@@ -11,6 +11,7 @@
 
 ## 📜 Certifications
 - 2024.6 : SQLD
+- 2024.10 : 네트워크 관리사 2급
 
 ## ✨ Current interests
 
