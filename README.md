@@ -5,11 +5,12 @@
 ## 🚀 Record
 
 - 2019.2 : 서울과학기술대학교 입학
-- 2023.7 : 스파르타 코딩클럽 AI 웹 개발자 과정(Django) 수료 
+- 2023.7 : 스파르타코딩클럽 AI 웹 개발자 과정(Django) 수료 
 - 2024.2 : 서울과학기술대학교 IT융합소프트웨어학과 복수전공
 - 2024.8 : GDG on Campus: Seoultech 4th Core
 
 ## 📜 Certifications
+
 - SQLD
 - 네트워크관리사 2급
 - 컴퓨터활용능력 2급
