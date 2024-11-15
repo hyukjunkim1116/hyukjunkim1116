@@ -14,11 +14,12 @@
 - SQLD
 - 네트워크관리사 2급
 - 컴퓨터활용능력 2급
+<!-- AWS SAA -->
+<!-- AWS DVA -->
 <!-- 정보처리기사 -->
 <!-- OPIc AL -->
 <!-- 리눅스마스터 2급 -->
-<!-- AWS SAA -->
-<!-- AWS DVA -->
+
 
 ## ✨ Current interests
 
