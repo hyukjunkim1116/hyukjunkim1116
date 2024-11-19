@@ -15,13 +15,13 @@
 - 네트워크관리사 2급
 - 컴퓨터활용능력 2급
 - AWS SAA
-![aws-certified-solutions-architect-associate (1)](https://github.com/user-attachments/assets/4be63fd5-ae3c-4381-be7e-c6024ddd5735)
-
-
 <!-- AWS DVA -->
 <!-- 정보처리기사 -->
 <!-- OPIc AL -->
 <!-- 리눅스마스터 2급 -->
+![aws-certified-solutions-architect-associate (2)](https://github.com/user-attachments/assets/d4929070-8751-41e0-ac19-8a8f72895de2)
+
+
 
 
 ## ✨ Current interests
