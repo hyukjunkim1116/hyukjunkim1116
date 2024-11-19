@@ -15,7 +15,6 @@
 - 네트워크관리사 2급
 - 컴퓨터활용능력 2급
 - AWS SAA
-
 ![aws-certified-solutions-architect-associate (1)](https://github.com/user-attachments/assets/4be63fd5-ae3c-4381-be7e-c6024ddd5735)
 
 
