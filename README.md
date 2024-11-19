@@ -15,7 +15,8 @@
 - 네트워크관리사 2급
 - 컴퓨터활용능력 2급
 - AWS SAA
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="494117c6-2f69-4c77-9f6e-e7e4a8b984f0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/a94827c7-0b7b-4591-bfa0-9c14a3843867)
+
 <!-- AWS DVA -->
 <!-- 정보처리기사 -->
 <!-- OPIc AL -->
