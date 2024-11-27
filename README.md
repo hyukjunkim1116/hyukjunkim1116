@@ -17,7 +17,6 @@
 - AWS Certified Solutions Architect-Associate
 <!-- AWS DVA -->
 <!-- 정보처리기사 -->
-<!-- OPIc AL -->
 <!-- 리눅스마스터 2급 -->
 ![aws-certified-solutions-architect-associate (3)](https://github.com/user-attachments/assets/8b4543d1-4f05-4fb3-ab23-ba30ed28bd6c)
 
