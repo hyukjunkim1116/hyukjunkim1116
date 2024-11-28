@@ -14,8 +14,8 @@
 - SQLD
 - 네트워크관리사 2급
 - 컴퓨터활용능력 2급
-- AWS Certified Solutions Architect-Associate
-<!-- AWS DVA -->
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Developer - Associate
 <!-- 정보처리기사 -->
 <!-- 리눅스마스터 2급 -->
 ![120](https://github.com/user-attachments/assets/4cc1f95c-61fd-4305-be80-969f6e51a501)
