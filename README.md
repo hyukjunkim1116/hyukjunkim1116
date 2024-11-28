@@ -19,9 +19,7 @@
 <!-- 정보처리기사 -->
 <!-- 리눅스마스터 2급 -->
 ![120](https://github.com/user-attachments/assets/4cc1f95c-61fd-4305-be80-969f6e51a501)
-
-![aws-certified-solutions-architect-associate (3)](https://github.com/user-attachments/assets/8b4543d1-4f05-4fb3-ab23-ba30ed28bd6c)
-
+![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/f1467c00-183b-4151-997f-1c63811bcbad)
 
 
 
