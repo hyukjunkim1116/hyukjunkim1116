@@ -14,9 +14,10 @@
 - SQLD
 - 네트워크관리사 2급
 - 컴퓨터활용능력 2급
+- 정보처리기사
 - AWS Certified Solutions Architect - Associate
 - AWS Certified Developer - Associate
-- 정보처리기사
+
 
 ![120](https://github.com/user-attachments/assets/4cc1f95c-61fd-4305-be80-969f6e51a501)
 ![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/f1467c00-183b-4151-997f-1c63811bcbad)
