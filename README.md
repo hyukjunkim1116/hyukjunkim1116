@@ -7,7 +7,7 @@
   Aftershoot
 </a>
 
-<h5 align="center">📝 I regularly write articles on https://velog.io/@rlagurwns112</h5>
+<h5 align="center">📝 I regularly write articles on <a href="[https://www.linkedin.com/company/aftershootco/](https://velog.io/@rlagurwns112)" target="_blank"">velog</a></h5>
 <h5 align="center">📫 How to reach me <bold>nmkk1234@naver.com</bold></h5>
 <h5 align="center">🔭 Check out my detailed profile in Korean https://velog.io/@rlagurwns112/about</h5>
 
