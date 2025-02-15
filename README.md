@@ -2,7 +2,7 @@
 <h3 align="center">A curious developer trying to get better and learn</h3>
 
 <h5 align="center">📝 I regularly write articles on https://velog.io/@rlagurwns112</h5>
-<h5 align="center">📫 How to reach me **nmkk1234@naver.com**</h5>
+<h5 align="center">📫 How to reach me <strong>nmkk1234@naver.com</strong></h5>
 <h5 align="center">🔭 Check out my detailed profile in Korean https://velog.io/@rlagurwns112/about</h5>
 
  <p align="center">
