@@ -27,4 +27,5 @@
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyukjunkim1116&theme=github-compact&area=true&hide_border=true" width="100%"/>
 </a>
 </p>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ernicio-Chilundo-Dev&bg_color=2C3E50&color=ECF0F1&line=3498DB&point=F0F0F0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
