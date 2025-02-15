@@ -1,7 +1,6 @@
 <h1 align="center">Hey👋! I am Hyukjun Kim</h1>
 <h3 align="center">A curious developer trying to get better and learn</h3>
 
-- 🔭 I’m currently working on **SpotEase**  
 - 📝 I regularly write articles on [https://velog.io/@rlagurwns112](https://velog.io/@rlagurwns112)  
 - 📫 How to reach me **nmkk1234@naver.com**  
 
