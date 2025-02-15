@@ -12,7 +12,7 @@
 
 <p align="center">
   <!-- GitHub 전체 통계 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hyukjunkim1116&show_icons=true&theme=synthwave&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hyukjunkim1116&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
