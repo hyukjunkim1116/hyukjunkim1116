@@ -17,10 +17,10 @@
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hyukjunkim1116&theme=dark" alt="GitHub Streak" /></a>
 </p>
-
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyukjunkim1116&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <!-- GitHub 활동 그래프 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyukjunkim1116&theme=tokyo-night" alt="GitHub Activity Graph" />
+
 </p>
 
