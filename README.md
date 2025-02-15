@@ -24,4 +24,12 @@
   <!-- GitHub 활동 그래프 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyukjunkim1116&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app?user=hyukjunkim1116&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hyukjunkim1116&theme=dracula" alt="GitHub Activity Graph"/>
+</p>
 
