@@ -7,7 +7,7 @@
 
  <p align="center">
   <!-- 가장 많이 사용한 언어 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyukjunkim1116&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyukjunkim1116&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
