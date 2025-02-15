@@ -3,6 +3,9 @@
 
 [Aftershoot](https://www.linkedin.com/company/aftershootco/)
 <a href="https://www.linkedin.com/company/aftershootco/" target="_blank" style="text-decoration: none;">Aftershoot</a>
+<a href="https://www.linkedin.com/company/aftershootco/" target="_blank" style="text-decoration: none; color: inherit;">
+  Aftershoot
+</a>
 
 <h5 align="center">📝 I regularly write articles on https://velog.io/@rlagurwns112</h5>
 <h5 align="center">📫 How to reach me <bold>nmkk1234@naver.com</bold></h5>
