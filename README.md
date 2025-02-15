@@ -7,9 +7,9 @@
   Aftershoot
 </a>
 
-<h5 align="center">📝 I regularly write articles on <a href="https://velog.io/@rlagurwns112" target="_blank">velog</a></h5>
+<h5 align="center">📝 I regularly write articles on <a href="https://velog.io/@rlagurwns112" target="_blank"> velog</a></h5>
 <h5 align="center">📫 How to reach me <bold>nmkk1234@naver.com</bold></h5>
-<h5 align="center">🔭 Check out my detailed profile in Korean <a href="https://velog.io/@rlagurwns112/about" target="_blank">here</a></h5>
+<h5 align="center">🔭 Check out my detailed profile in Korean <a href="https://velog.io/@rlagurwns112/about" target="_blank"> here</a></h5>
 
  <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyukjunkim1116&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
