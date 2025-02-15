@@ -14,13 +14,14 @@
   <!-- GitHub 전체 통계 -->
   <img src="https://github-readme-stats.vercel.app/api?username=hyukjunkim1116&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hyukjunkim1116&theme=dark" alt="GitHub Streak" /></a>
-</p>
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyukjunkim1116&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <!-- GitHub 활동 그래프 -->
-
+<a href="https://git.io/streak-stats">
+ <img src="https://streak-stats.demolab.com?user=hyukjunkim1116&theme=dark" alt="GitHub Streak" />
+</a>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyukjunkim1116&theme=dracula" alt="GitHub Activity Graph"/>
+  </a>
 </p>
 
