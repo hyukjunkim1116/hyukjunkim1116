@@ -1,6 +1,8 @@
 <h1 align="center">Hi👋! I am Hyukjun Kim</h1>
 <h3 align="center">A curious developer trying to get better and learn</h3>
+
 [Aftershoot](https://www.linkedin.com/company/aftershootco/)
+
 <h5 align="center">📝 I regularly write articles on https://velog.io/@rlagurwns112</h5>
 <h5 align="center">📫 How to reach me <bold>nmkk1234@naver.com</bold></h5>
 <h5 align="center">🔭 Check out my detailed profile in Korean https://velog.io/@rlagurwns112/about</h5>
