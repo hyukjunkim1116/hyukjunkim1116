@@ -24,7 +24,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyukjunkim1116&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats"/>
-</p>
-
