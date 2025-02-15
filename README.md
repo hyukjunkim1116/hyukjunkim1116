@@ -22,8 +22,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyukjunkim1116&theme=dracula" alt="Ashutosh's github activity graph">
+  <a href="https://github.com/hyukjunkim1116/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyukjunkim1116&theme=dracula" alt="hyukjunkim's github activity graph">
   </a>
 </p>
 
