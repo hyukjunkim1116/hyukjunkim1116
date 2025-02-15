@@ -25,3 +25,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyukjunkim1116&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app?user=hyukjunkim1116&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hyukjunkim1116&theme=dracula" alt="GitHub Activity Graph" />
+</p>
+
+
