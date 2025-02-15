@@ -19,6 +19,7 @@
 <a href="https://git.io/streak-stats">
  <img src="https://streak-stats.demolab.com?user=hyukjunkim1116&theme=dark" alt="GitHub Streak" />
 </a>
+</p>
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyukjunkim1116&theme=dracula" alt="GitHub Activity Graph">
