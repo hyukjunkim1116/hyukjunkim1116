@@ -5,6 +5,9 @@
 <h5 align="center">📫 How to reach me **nmkk1234@naver.com**</h5>
 <h5 align="center">🔭 Check out my detailed profile in Korean https://velog.io/@rlagurwns112/about</h5>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyukjunkim1116&bg_color=151515&color=ffffff&line=fefefe&point=eab3db&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
  <p align="center">
   <!-- 가장 많이 사용한 언어 -->
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyukjunkim1116&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
@@ -21,10 +24,4 @@
 </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/hyukjunkim1116/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyukjunkim1116&theme=dracula" alt="hyukjunkim's github activity graph">
-  </a>
-</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyukjunkim1116&bg_color=151515&color=ffffff&line=fefefe&point=eab3db&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
