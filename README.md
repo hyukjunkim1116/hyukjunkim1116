@@ -5,7 +5,7 @@
 <h5 align="center">📫 How to reach me **nmkk1234@naver.com**</h5>
 <h5 align="center">🔭 Check out my detailed profile in Korean https://velog.io/@rlagurwns112/about</h5>
 
-[![hyukjunkim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hyukjunkim1116&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![hyukjunkim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hyukjunkim1116&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  <p align="center">
   <!-- 가장 많이 사용한 언어 -->
