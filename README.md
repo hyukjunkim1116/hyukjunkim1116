@@ -22,7 +22,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyukjunkim1116&theme=dracula" alt="GitHub Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyukjunkim1116&theme=dracula" alt="GitHub Activity Graph"/>
   </a>
 </p>
 
