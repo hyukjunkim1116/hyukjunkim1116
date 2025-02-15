@@ -14,7 +14,7 @@
   <!-- GitHub 전체 통계 -->
   <img src="https://github-readme-stats.vercel.app/api?username=hyukjunkim1116&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hyukjunkim1116&theme=dark" alt="GitHub Streak" /></a>
 <p align="center">
   <!-- GitHub 연속 커밋 스트릭 -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyukjunkim1116&theme=synthwave" alt="GitHub Streak" />
