@@ -5,10 +5,10 @@
 - 📫 How to reach me **nmkk1234@naver.com**
 - 🔭 Check out my detailed profile in Korean [here](https://velog.io/@rlagurwns112/about)
 
-<!-- <p align="center">
+ <p align="center">
   <!-- 가장 많이 사용한 언어 -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyukjunkim1116&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="Top Languages" />
-</p> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyukjunkim1116&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
 <p align="center">
   <!-- GitHub 전체 통계 -->
