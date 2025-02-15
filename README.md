@@ -31,5 +31,5 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hyukjunkim1116&theme=dracula" alt="GitHub Activity Graph" />
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hyukjunkim1116"/></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hyukjunkim1116)](https://git.io/streak-stats)
 
