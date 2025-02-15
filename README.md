@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋! I am Hyukjun Kim</h1>
 <h3 align="center">A curious developer trying to get better and learn</h3>
 
-<h5 align="center">- 📝 I regularly write articles on (velog)[https://velog.io/@rlagurwns112]</h5>
+<h5 align="center">- 📝 I regularly write articles on [velog](https://velog.io/@rlagurwns112)</h5>
 <h5 align="center">- 📫 How to reach me **nmkk1234@naver.com**</h5>
 <h5 align="center">- 🔭 Check out my detailed profile in Korean [here](https://velog.io/@rlagurwns112/about)</h5>
 
