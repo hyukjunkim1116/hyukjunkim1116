@@ -20,6 +20,6 @@
 
 <p align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyukjunkim1116&theme=dracula"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyukjunkim1116&theme=github-compact"/>
 </a>
 </p>
