@@ -2,10 +2,10 @@
 <h3 align="center">A curious developer trying to get better and learn</h3>
 <h5 align="center">📝 I regularly write articles on <a href="https://velog.io/@rlagurwns112" target="_blank"> velog</a></h5>
 <h5 align="center">📫 How to reach me <b>nmkk1234@naver.com</b></h5>
-<h5 align="center">📫 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)</b></h5>
+<h5 align="center">👩‍💻 My Tech Stacks</b></h5>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=spring,nextjs" />
   </a>
 </p>
 <h5 align="center">🔭 Check out my detailed profile in Korean <a href="https://velog.io/@rlagurwns112/about" target="_blank"> here</a></h5>
