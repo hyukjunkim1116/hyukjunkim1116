@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋! I am Hyukjun Kim</h1>
+<!-- <h1 align="center">Hi👋! I am Hyukjun Kim</h1>
 <h3 align="center">A curious developer trying to get better and learn</h3>
 <h5 align="center">📝 I regularly write articles on <a href="https://velog.io/@rlagurwns112" target="_blank"> velog</a></h5>
 <h5 align="center">📫 How to reach me <b>nmkk1234@naver.com</b></h5>
@@ -28,4 +28,4 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyukjunkim1116&bg_color=151515&color=fefefe&line=fefefe&point=fb8c00&area=true&hide_border=true"/>
 </a>
-</p>
+</p> -->
